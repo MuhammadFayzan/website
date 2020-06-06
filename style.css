@@ -1,0 +1,234 @@
+*{
+    margin-top: 0px;
+    padding: 0px;
+}
+.socialmediaicon{
+    margin-top: 45px;
+    width: 150px;
+    height: 60px;
+    line-height: 50px;
+}
+.socialmediaicon ul li{
+    display: inline-block;
+}
+.socialmediaicon img{
+    width: 55px;
+    height: 55px;
+    padding: 10px;
+}
+.logo{
+    width: 150px;
+}
+.logo img{
+    width: 120px;
+    height: 100px;
+}
+.createaccount{
+    width: 150px;   
+    height: 60px;
+    line-height: 50px;
+    margin-top: 45px;
+}
+.createaccount ul li{
+    display: inline-block;
+}
+.createaccount img{
+    width: 45px;   
+    height: 45px;
+    padding: 10px;
+}
+.top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.d-block{
+    height: 500px;
+}
+.alert{
+    text-align: center;
+}
+.navbar-nav{
+    /* border: 1px solid seagreen; */
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    justify-content: space-between;
+    text-decoration: none;   
+}
+.middle{
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+.service{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.service img{
+    margin-right: 10px;
+}
+.ship,.covid,.allservice{
+    display: flex;
+    height: 50px;
+    background-color: white;
+    box-shadow: 2px 4px 5px grey;
+    justify-content: center !important;
+    text-align: center !important;
+    align-items: center !important;
+    color: blue;
+    margin-top: 10px;
+}
+.readytowear{
+    /* border: 1px solid red; */
+    width: 300px;
+    height:400px;
+    margin-top: 30px;
+}
+.unstitchedfabric{
+    /* border: 1px solid red; */
+    width: 300px;
+    height: 400px;
+    margin-top: 30px;
+
+}
+.partywear{
+    /* border: 1px solid red; */
+    width: 500px;
+    height: 400px;
+    margin-top: 30px;
+}
+.middle2{
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+.shawl{
+/* border: 1px solid red; */
+width: 600px;
+height: 400px;
+margin-top: 30px;
+}
+.catalogue{
+    /* border: 1px solid red; */
+    width: 600px;
+    height: 400px;
+    margin-top: 30px;
+}
+.contactbar{
+    background-color: #731013;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    color: white !important;
+}
+.condition ul li{
+    list-style: none;
+}
+.condition ul li a{
+    text-decoration: none;
+    color: white;
+}
+.contact ul li{
+    list-style: none;
+}
+.contact ul li a{
+    text-decoration: none;
+    color: white;
+}
+.neg ul li{
+    list-style: none;
+}
+.neg ul li a{
+    text-decoration: none;
+    color: white;
+}
+.terms{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.terms, .email{
+    width: 600px;
+    height: 150px;
+}
+.email{
+    margin-top: 40px;
+}
+.copyright{
+    height: 40px;
+    color: white;
+    background-color: blueviolet;
+}
+.copyright p{
+    margin-left: 15px;
+}
+#submission{
+    width: 130px;
+    height: 30px;
+    color:white;
+    background-color: rgb(163, 124, 64);
+}
+.newsletter{
+    float: right
+}
+.newsletter p{
+    text-align: right;
+}
+#submission:hover{   
+    background-color: black;
+    color: white;
+}
+.card{
+    width: 250px;
+    margin-bottom: 10px;
+}
+.card img{
+    height:350px;
+}
+.salecard{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+.saleend{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.saleend img{
+    width: 400px;
+    height: 500px;
+}
+.locationaddress{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.location, .address{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 400px;
+    margin-top: 50px;
+}
